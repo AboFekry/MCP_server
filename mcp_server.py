@@ -34,3 +34,12 @@ def main():
 if __name__ == "__main__":
     # run the main function
     main()
+
+
+
+
+
+
+
+
+#npx @modelcontextprotocol/inspector python .\mcp_server.py
